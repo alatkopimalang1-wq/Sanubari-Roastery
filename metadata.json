@@ -1,0 +1,8 @@
+{
+  "name": "Sanubari Roastery",
+  "description": "Platform e-commerce kopi dan peralatan seduh kopi terlengkap di Indonesia. Belanja biji kopi single origin, mesin espresso, manual brew, grinder, serta panduan seduh interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
